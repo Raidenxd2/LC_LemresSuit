@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45d203dfe6a62f6448fdfbed139b6e76, type: 3}
+  m_Name: LemresProject
+  m_EditorClassIdentifier: 
+  ModGUID: com.raiden.lemressuit
+  ModName: Lemres Suit
+  ModShortDescription: adds lemres to lethal company
+  AssetbundleName: lemresbundle
+  ProjectNamespace: ModelReplacement
+  LCPath: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\
+  ProjectPath: C:/lethallemres/LemresSuit
+  GenerateNewProject: 0
+  ProjectPrefabs:
+  - {fileID: 0}
+  - {fileID: 5448523957732511334, guid: c5459ad6036b8e44f8e289fcc11d6686, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}

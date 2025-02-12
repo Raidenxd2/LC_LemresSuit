@@ -75,3 +75,4 @@ crashlytics-build.properties
 /LemresSuit/.vs
 /LemresSuit/bin
 /LemresSuit/obj
+/LemresSuit/Build/zip

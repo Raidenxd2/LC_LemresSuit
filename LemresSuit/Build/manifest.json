@@ -1,7 +1,7 @@
 {
     "name": "Lemres_Suit",
     "version_number": "1.0.0",
-    "website_url": "",
+    "website_url": "https://github.com/Raidenxd2/LC_LemresSuit",
     "description": "adds lemres to lethal company",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
